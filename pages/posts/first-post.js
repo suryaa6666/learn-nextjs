@@ -16,6 +16,9 @@ export default function FirstPost() {
                 />
             </Head>
             <h1>
+                Serah lu dah hehe
+            </h1>
+            <h1>
                 <Link href={"/"}> Click to go home! </Link>
             </h1>
         </>
